@@ -8,4 +8,7 @@
 
 [compiler explorer](https://gcc.godbolt.org/)
 
+# ebook
+[zlibrary](https://1lib.limited/)
+
 
