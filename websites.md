@@ -16,3 +16,6 @@
 
 # openCV
 [OpenCV-Python Tutorials](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
+
+# Python
+[Class method and static method](https://stackoverflow.com/questions/12179271/meaning-of-classmethod-and-staticmethod-for-beginner)
