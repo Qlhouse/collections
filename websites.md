@@ -19,3 +19,7 @@
 
 # Python
 [Class method and static method](https://stackoverflow.com/questions/12179271/meaning-of-classmethod-and-staticmethod-for-beginner)
+
+
+# HTML
+[HTML validator](https://validator.w3.org/)
