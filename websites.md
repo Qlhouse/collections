@@ -25,3 +25,6 @@
 [HTML validator](https://validator.w3.org/)
 
 [Collection of Icons](https://fontawesome.com/)
+
+# Electrics
+[DispllaySpecifications](https://www.displayspecifications.com/)
