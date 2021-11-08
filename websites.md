@@ -28,3 +28,4 @@
 
 # Electrics
 [DispllaySpecifications](https://www.displayspecifications.com/)
+[屏酷网](https://www.panelook.cn/)
