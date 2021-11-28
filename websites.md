@@ -34,3 +34,4 @@
 [clash](https://github.com/Dreamacro/clash)
 [proxy site stgod](https://hello.stgod.com/)
 [proxy site fly](https://proxypool.fly.dev/clash)
+[proxy site leefake](https://proxy.leefake.xyz/clash)
