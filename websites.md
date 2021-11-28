@@ -32,4 +32,5 @@
 
 # VPN
 [clash](https://github.com/Dreamacro/clash)
-[class setting file](https://hello.stgod.com/)
+[proxy site stgod](https://hello.stgod.com/)
+[proxy site fly](https://proxypool.fly.dev/clash)
