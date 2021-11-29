@@ -9,6 +9,7 @@ ffmpeg -i sample.avi -q:a 0 -map a sample.mp3
 ## Create list.txt
 
 > file '/path/to/first.mp3'
+> 
 > file '/path/to/second.mp3'
 
 ## Concatenate command
