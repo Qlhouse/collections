@@ -17,3 +17,8 @@ ffmpeg -i sample.avi -q:a 0 -map a sample.mp3
 ## Concatenate command
 
 `ffmpeg -f concat -i list.txt -c copy out.mp3`
+
+ffmpeg视频合并Unsafe file name问题解决: 加个`-safe 0` 参数
+
+ffmpeg.exe -f concat -safe 0 -i ./fileToMerge.txt -c copy -y ./out.mp4
+
