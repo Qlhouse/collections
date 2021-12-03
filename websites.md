@@ -39,3 +39,9 @@
 **Now BEST** [proxy site fly](https://proxypool.fly.dev/clash)
 
 [proxy site leefake](https://proxy.leefake.xyz/clash)
+
+# Vanilla Javascript
+
+[Online Tutorials](https://www.youtube.com/watch?v=HzJngc-Se9Q&list=PL5e68lK9hEzd6RUzREoABqimRI4SY63ND)
+
+[Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
