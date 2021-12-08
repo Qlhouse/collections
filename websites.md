@@ -45,3 +45,5 @@
 [Online Tutorials](https://www.youtube.com/watch?v=HzJngc-Se9Q&list=PL5e68lK9hEzd6RUzREoABqimRI4SY63ND)
 
 [Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
+
+[IDM 俄罗斯大神版](https://lrepacks.net/repaki-programm-dlya-interneta/56-internet-download-manager-repack.html)
