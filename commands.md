@@ -22,3 +22,7 @@ ffmpeg视频合并Unsafe file name问题解决: 加个`-safe 0` 参数
 
 ffmpeg.exe -f concat -safe 0 -i ./fileToMerge.txt -c copy -y ./out.mp4
 
+# npm 换源
+
+npm config set registry https://registry.npm.taobao.org
+
