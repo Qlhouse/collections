@@ -57,4 +57,6 @@
 
 [Debian Aliyun源](https://developer.aliyun.com/mirror/debian)
 
+# Failed to connect to raw.githubusercontent.com
+
 [curl: (7) Failed to connect to raw.githubusercontent.com port 443](https://github.com/hawtim/blog/issues/10)
