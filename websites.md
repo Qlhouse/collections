@@ -53,4 +53,6 @@
 # WSL 升级Debian
 [升级Debian](https://zhuanlan.zhihu.com/p/74509245)
 
+[Debian 清华源](https://mirrors.tuna.tsinghua.edu.cn/help/debian/)
 
+[Debian Aliyun源](https://developer.aliyun.com/mirror/debian)
