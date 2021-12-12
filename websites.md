@@ -46,4 +46,11 @@
 
 [Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
 
+# IDM
+
 [IDM 俄罗斯大神版](https://lrepacks.net/repaki-programm-dlya-interneta/56-internet-download-manager-repack.html)
+
+# WSL 升级Debian
+[升级Debian](https://zhuanlan.zhihu.com/p/74509245)
+
+
