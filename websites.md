@@ -56,3 +56,5 @@
 [Debian 清华源](https://mirrors.tuna.tsinghua.edu.cn/help/debian/)
 
 [Debian Aliyun源](https://developer.aliyun.com/mirror/debian)
+
+[curl: (7) Failed to connect to raw.githubusercontent.com port 443](https://github.com/hawtim/blog/issues/10)
