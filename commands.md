@@ -26,3 +26,7 @@ ffmpeg.exe -f concat -safe 0 -i ./fileToMerge.txt -c copy -y ./out.mp4
 
 npm config set registry https://registry.npm.taobao.org
 
+# Powershell jump into WSL
+
+wsl -d debian
+
