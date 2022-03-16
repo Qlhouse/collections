@@ -11,6 +11,10 @@
 # ebook
 [zlibrary](https://1lib.limited/)
 
+[中文文献下载](https://www.cn-ki.net/)
+
+[外文文献下载](https://gen.lib.rus.ec)
+
 # youtube download
 [y2mate](https://y2mate.is/en4/)
 
